@@ -1,0 +1,12 @@
+commit bfda0c16909f2bfe414763f41c0108ae5024ef26 (HEAD -> loggin, origin/master, master)
+Author: Mitra Kostadinova <mitrakostadinova@yahoo.com>
+Date:   Wed Mar 21 18:37:23 2018 +0100
+
+    modify l1.txt
+
+commit 74fe92df6d6be6b8e941831a8df0564ac36b02e5
+Author: Mitra Kostadinova <mitrakostadinova@yahoo.com>
+Date:   Wed Mar 21 18:29:18 2018 +0100
+
+    Initial commit
+
