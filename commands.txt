@@ -1,0 +1,21 @@
+1.git init
+2.notepad l1.txt
+3.git add .
+4.git commit -m "Initial commit"
+5.git add .
+6.git commit -m "modify l1.txt"
+7.git remote add origin https://github.com/Kostadinova1/Lab1.git
+8.git push -u origin master
+9.git reset --hard HEAD
+10.git branch logging
+11.git checkout logging
+12.notepad log.txt
+13.git log
+14.git add .
+15. git commit -m "Add logging.txt"
+16. git push -u origin logging
+17. git checkout master
+18.git merge logging
+19.git push
+20.git branch allcomands
+
